@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lujain Bugis</h1>
 <h3 align="center">Full stack web developer, programmer, UI/UX designer</h3>
 
-- 🔭 I’m currently working on [BashMubrmj](https://xilujain.github.io/BashMubrmj/)
+- 🔭 I’m currently working on [BashMubrmj](https://xilujain.github.io/BashMubrmj/), [easy-to-get](https://xilujain.github.io/easy-to-get/)
 
 - 🌱 I’m currently learning **Application development, using flutter & Dart**
 
