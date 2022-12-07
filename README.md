@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lujain Bugis</h1>
-<h3 align="center">Full stack web developer, programmer, UI/UX designer</h3>
+<h3 align="center">Front-end web developer, programmer, UI/UX designer</h3>
 
 - 🔭 I was worked on [BashMubrmj](https://xilujain.github.io/BashMubrmj/), [easy-to-get](https://xilujain.github.io/easy-to-get/)
 
