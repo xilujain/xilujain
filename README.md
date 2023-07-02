@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working on Flutter, Dart and Python<br>- 📚 I'm currently learning more about Flutter & Dart, TypeScript<br>- Ask me about: React, javaScript</p>
+<p align="left">- 🔭 I’m working on Flutter, Dart<br>- 📚 I'm currently learning more about Flutter & Dart, TypeScript<br>- Ask me about: React, javaScript</p>
 
 ###
 
