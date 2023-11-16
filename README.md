@@ -10,7 +10,7 @@ Please find some of my open-source projects below:
 - 💭 [Kholasa / خُلاصَة](https://github.com/xilujain/Kholasa) - Web platform read the text from URL and return the original text and the summary of it.
 - 📝 [Masaha / مسَاحة](https://github.com/xilujain/Masaha) - A Flutter application which acts as a link between owners of workspaces of all kinds and their customers.
 
-Additionally, please visit my 🔗 [bento](bento.me/lujainsalah).
+Additionally, please visit my 🔗 [bento](https://bento.me/lujainsalah).
 
 In Brief
 --
