@@ -1,6 +1,6 @@
 <h1 align="center">Yo! 👋, I'm Lujain Salah</h1>
 
-I am a Flutter developer & Fullstack Web Developer.
+I am a Mobile application Developer & Fullstack Web Developer.
 
 Additionally, please visit my 🔗 [portfolio](https://www.lujainsalah.sa/).
 
